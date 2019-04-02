@@ -5,7 +5,7 @@
 .header-container {
   width: 700px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
-  min-height: 70px;
+  min-height: 100px;
 }
 
 .header-wrapper{
