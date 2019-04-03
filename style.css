@@ -22,6 +22,17 @@
   width:60px;
 }
 
+#tourio{
+  /*color: #ff515d;*/
+  font-weight: bold;
+}
+#tourio:hover{
+  /*font-size:21px;*/
+  /*text-shadow: 1px 1px 1px rgba(50,50,50,0.8)*/
+  color: #ff515d;
+  text-decoration: underline;
+}
+
 /*Raleway, Montserrat, Varela Round, etc... 👉 <h1>, <h2>, <h3>*/
 body{
   color: rgb(50,50,50);
